@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./livyselectionsf01longgoog_0008.png"; bbox 0 0 2925 4375; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1253 1524 1696 1739">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1253 1524 1696 1739">
+     <span class='ocr_line' id='line_1_1' title="bbox 1313 1524 1523 1600; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1313 1524 1523 1600; x_wconf 72' lang='lat' dir='ltr'><strong>olm·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1253 1652 1696 1739; baseline -0.038 0"><span class='ocrx_word' id='word_1_2' title='bbox 1253 1652 1696 1739; x_wconf 47' lang='grc' dir='ltr'><em>Μ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 775 2015 2011 2149">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 775 2015 2011 2149">
+     <span class='ocr_line' id='line_1_3' title="bbox 1207 2015 1639 2068; baseline 0.002 -11"><span class='ocrx_word' id='word_1_3' title='bbox 1207 2015 1493 2068; x_wconf 81' lang='lat' dir='ltr'><strong>Copyright.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1520 2018 1639 2059; x_wconf 81' lang='lat'>1908</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 775 2098 2011 2149; baseline -0.001 -6"><span class='ocrx_word' id='word_1_5' title='bbox 775 2100 854 2143; x_wconf 75' lang='grc' dir='ltr'><strong>ΒΥ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 887 2099 1099 2149; x_wconf 79' lang='lat' dir='ltr'><strong>SOOTT,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1131 2098 1487 2143; x_wconf 86' lang='lat' dir='ltr'><strong>FORESMAN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1522 2099 1661 2143; x_wconf 82' lang='lat' dir='ltr'><strong>AND</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1688 2098 2011 2144; x_wconf 84' lang='lat' dir='ltr'>COMPANY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 925 3791 1853 3894">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 925 3791 1853 3894">
+     <span class='ocr_line' id='line_1_5' title="bbox 1175 3791 1608 3824; baseline -0.005 0"><span class='ocrx_word' id='word_1_10' title='bbox 1175 3791 1517 3824; x_wconf 73' lang='lat' dir='ltr'>TYPOGRAPHY</span> <span class='ocrx_word' id='word_1_11' title='bbox 1538 3791 1608 3822; x_wconf 75' lang='grc' dir='ltr'><strong>ΒΥ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 925 3857 1853 3894; baseline -0.001 -3"><span class='ocrx_word' id='word_1_12' title='bbox 925 3859 1030 3891; x_wconf 73' lang='grc' dir='ltr'><strong>ΤΒΕ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1053 3859 1317 3891; x_wconf 71' lang='lat' dir='ltr'><strong>FRANKLIN</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1343 3858 1603 3894; x_wconf 74' lang='lat' dir='ltr'>COMPANY.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1629 3857 1853 3890; x_wconf 78' lang='lat' dir='ltr'>CHICAGO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
